@@ -1,8 +1,3 @@
-/*..
-*
-* This was made a long ass time ago...
-* this is manual mapped and never dropped to disk really
-*/
 #include <ntddk.h>
 #include <ntddkbd.h>
 #define KEYBOARD_CLASS_DEVICENAME L"\\Device\\KeyboardClass0"
